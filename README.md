@@ -3,6 +3,8 @@ Marauder is an open source SIEM platform.
 
 I had started to work on Marauder about 2 years ago and the project got left out, however there's enough code in Marauder that can be utilized by folks who may be interested in the individual modules of Marauder.
 
+If anyone would like to collaborate with me on completing Marauder, let me know.
+
 If I have some cycles from Veronica then I will surely put some additional commits into Marauder.
 
 The original version of the project from early 2013 was here:https://code.google.com/p/marauder/
