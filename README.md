@@ -10,7 +10,7 @@ If I have some cycles from Veronica then I will surely put some additional commi
 The original version of the project from early 2013 was here:https://code.google.com/p/marauder/
 
 History:
-I have spent about 3 years years of my career as a Security Engineer / Programmer. Information security is increasingly become top priority of all organizations, you can't bury your heads in the sand anymore. A SIEM is a Security Incident and Event Monitoring / Management system. There are several paid as well as open source SIEMs out there and the concept is not new.
+I have spent about 3 years of my career as a Security Engineer / Programmer. Information security is increasingly become top priority of all organizations, you can't bury your heads in the sand anymore. A SIEM is a Security Incident and Event Monitoring / Management system. There are several paid as well as open source SIEMs out there and the concept is not new.
 
 In the recent years due to the exponential growth in data consumption and the internet the raw amount of information that needs to be inspected by security systems has become huge therefore security industry has created a hierarchy based approach to threat analysis. Let me explain with an example: you deploy specialist systems like firewalls, intrusion detection systems, DLPs etc. for doing what they do best in their own threat vector space however outcomes from these systems then need to be correlated to visualization an attack pattern or detect annomalies; that's where a SIEM comes in. As the system to perform these sophisticated correlations at an extremely large scale (we are talking double digit terabytes of log data)
 
