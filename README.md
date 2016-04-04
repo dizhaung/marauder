@@ -1,5 +1,8 @@
 # marauder
-Marauder is an open source SIEM platform.
+
+You can get the working version of this project from: https://github.com/srotya/marauder
+
+Marauder is an open source SIEM platform available under GNU GPL v2
 
 I had started to work on Marauder about 2 years ago and the project got left out, however there's enough code in Marauder that can be utilized by folks who may be interested in the individual modules of Marauder.
 
